@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working on customizing linux and creating minor programs in python, livecode, html, css and javascript
+I am a young tech enthusiatst. 
+I love to spend time customiszing and tinkiring with my linux distro. 
+I am currently working on a custom RICE for my NixOS distro!
 
 
 # 💻 Tech Stack:
