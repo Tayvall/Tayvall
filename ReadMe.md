@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a young tech enthusiatst. 
-I love to spend time customiszing and tinkiring with my linux distro. 
+I love to spend time customising and tinkiring with my linux distro. 
 I am currently working on a custom RICE for my NixOS distro!
 
 
